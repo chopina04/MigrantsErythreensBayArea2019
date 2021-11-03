@@ -4,4 +4,4 @@ Le jeu de données cartographie, à l'échelle des <i>census tracts</i> les migr
 
 Source des données : <a href="https://data.census.gov/cedsci/"><i>American Community Survey</i>, 2015-2019</a>
 
-Le jeu de données peut être affiché avec QGIS 3.20.
+Le jeu de données peut être affiché avec QGIS 3.22.
